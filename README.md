@@ -1,4 +1,4 @@
-# Dijkstra-s-algorithm
+# Dijkstra's-algorithm
 
 ## What is a graph?
 A graph, in short, is a set of objects (called "vertices" in the graph) and connections between them (called "edges" in the graph).
